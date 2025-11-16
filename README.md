@@ -143,7 +143,7 @@ MIT License - feel free to use this project however you'd like!
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by [<img src="https://github.com/aditya8Raj.png" width="20" style="border-radius: 50%;" /> Aditya Raj](https://github.com/aditya8Raj)
 
 ---
 
